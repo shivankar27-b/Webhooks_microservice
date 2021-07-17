@@ -6,7 +6,6 @@ git clone "https://github.com/shivankar27-b/Webhooks_microservice"
 npm install
 ## Step 3. Then run the file
 node index.js
-- Node.js: https://nodejs.org
 ## Step 4. Enter the following URLS for desired operation in POSTMAN:
 - GET REQUEST: 
 localhost:3000/webhooks/list
