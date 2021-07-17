@@ -1,7 +1,8 @@
 # Webhooks_microservice
 This project requires CLI and Postman to test. 
-## Step 1. Clone the project
+## Step 1. Clone the project and change the directory to Webhooks_microservice 
 git clone "https://github.com/shivankar27-b/Webhooks_microservice"
+cd Webhooks_microservice/
 ## Step 2. Install the dependencies
 npm install
 ## Step 3. Then run the file
@@ -17,4 +18,4 @@ localhost:3000/webhooks/register
 localhost:3000/webhooks/delete/<id>
 - Trigger:
 Localhost:3000/webhooks/ip
-## Step 5. We can check on browser using link: http://localhost:3000/webhooks/list
+## Step 5. Check on browser using link: http://localhost:3000/webhooks/list
