@@ -1,8 +1,8 @@
 # Webhooks_microservice
 This project requires CLI and Postman to test. 
 ## Step 1. Clone the project and change the directory to Webhooks_microservice with following commands:
-git clone "https://github.com/shivankar27-b/Webhooks_microservice"
-cd Webhooks_microservice/
+- git clone "https://github.com/shivankar27-b/Webhooks_microservice"
+- cd Webhooks_microservice/
 ## Step 2. Install the dependencies using:
 npm install
 ## Step 3. Then run the server using:
