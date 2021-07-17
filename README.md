@@ -6,15 +6,16 @@ git clone "https://github.com/shivankar27-b/Webhooks_microservice"
 npm install
 ## Step 3. Then run the file
 node index.js
+- Node.js: https://nodejs.org
 ## Step 4. Enter the following URLS for desired operation in POSTMAN:
-- GET REQUEST:
+- GET REQUEST: 
 localhost:3000/webhooks/list
 - POST REQUEST:
 localhost:3000/webhooks/register
 - UPDATE
-localhost:3000/webhooks/update/<id>
+"localhost:3000/webhooks/update/<id>
 - DELETE
 localhost:3000/webhooks/delete/<id>
 - Trigger:
 Localhost:3000/webhooks/ip
-## Step 5. We can check on browser using link: localhost:3000/webhooks/list
+## Step 5. We can check on browser using link: http://localhost:3000/webhooks/list
